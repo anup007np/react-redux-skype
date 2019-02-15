@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-If you want step by step tutorial, please visit [Understanding Redux: A more advanced example] by Ohans Emmanuel.(https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
+If you want step by step tutorial, please visit [Understanding Redux: A more advanced example](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)  by Ohans Emmanuel.
 
-## Exercises 
+## Exercises
 
 The author (Ohans Emmanuel) of the tutorial have left two tasks for us to do it yourself.
 
@@ -17,7 +17,7 @@ Both of these exercise tasks has been completed in this project.
 
 In the project directory, run:
 
-### `npm install` 
+### `npm install`
 
 to install all the dependenies needed for the project to work.
 
