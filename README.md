@@ -1,13 +1,27 @@
+## Chapter 4: Building Skypey: A More Advanced Example.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-##Chapter 4: Building Skypey: A More Advanced Example.
 
 If you want step by step tutorial, please visit [Understanding Redux: A more advanced example] by Ohans Emmanuel.(https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
 
+## Exercises 
+
+The author (Ohans Emmanuel) of the tutorial have left two tasks for us to do it yourself.
+
+1) Extend the Skypey app we built to handle editing a user’s message.
+2) Extend the Skypey app we built to also handle the deletion of a user’s message.
+
+Both of these exercise tasks has been completed in this project.
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run:
+
+### `npm install` 
+
+to install all the dependenies needed for the project to work.
+
+Then run:
 
 ### `npm start`
 
